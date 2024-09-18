@@ -1,5 +1,6 @@
 {
   "name": "web3-wallet-aggregator",
+  "author": "Yuliia Malovichko",
   "version": "0.1.0",
   "private": true,
   "scripts": {
